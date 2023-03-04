@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-04T17:22:16 IST" name="Default suite" finished-at="2023-03-04T17:25:01 IST" duration-ms="165171">
+    <groups>
+    </groups>
+    <test started-at="2023-03-04T17:22:16 IST" name="Default test" finished-at="2023-03-04T17:25:01 IST" duration-ms="165171">
+      <class name="com.test.mobile.TestngClass">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.test.mobile.TestngClass@2ea41516]" started-at="2023-03-04T17:22:17 IST" name="beforeMethod" finished-at="2023-03-04T17:23:31 IST" duration-ms="74631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="TestRestaurant()[pri:0, instance:com.test.mobile.TestngClass@2ea41516]" started-at="2023-03-04T17:23:31 IST" name="TestRestaurant" finished-at="2023-03-04T17:25:01 IST" duration-ms="90071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestRestaurant -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.test.mobile.TestngClass@2ea41516]" started-at="2023-03-04T17:25:01 IST" name="afterMethod" finished-at="2023-03-04T17:25:01 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.test.mobile.TestngClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
